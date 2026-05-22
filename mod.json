@@ -7,14 +7,13 @@
         "ios": "2.2081"
     },
     "version": "1.0.0",
-    "id": "MalikHw.fuckourite-icons",
-    "name": "fuckourite-icons",
-    "developer": "MalikHw",
-    "description": "desc.",
-    "tags": ["yes", "yeah"],
+    "id": "malikhw47.fuckourite-icons",
+    "name": "Favorite Icons",
+    "developer": "MalikHw47",
+    "description": "Favourite your icons!.",
+    "tags": ["offline", "utility"],
     "links": {
         "source": "https://github.com/MalikHw/fuckourite-icons",
         "community": "https://discord.gg/G9bZ92eg2n"
-    },
-    "settings": {}
+    }
 }
